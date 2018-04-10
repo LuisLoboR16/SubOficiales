@@ -2,4 +2,8 @@
     <string name="app_name">Suboficiales</string>
     <string name="proyecto">Proyecto</string>
     <string name="titulo">DESARROLLO DE UN SISTEMA BÁSICO DE INFOCOMUNICACION Y VISUALIZACIÓN DE DATOS A TRAVÉS DE DISPOSITIVOS MÓVILES CON TECNOLOGÍA ANDROID</string>
+    <string name="escuela">ESCUELA NAVAL DE SUBOFICIALES ARC \"BARRANQUILLA\"</string>
+    <string name="tecnologiaelectronica">TECNOLOGÍA EN ELECTRÓNICA</string>
+    <string name="ciudadfecha">BARRANQUILLA, ABRIL 2018</string>
+    <string name="contenido">Contenido</string>
 </resources>
