@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SUBOFICIAL</string>
+    <string name="proyecto">Project</string>
+    <string name="titulo">"DEVELOPMENT OF A BASIC SYSTEM OF INFOCOMMUNICATION AND DISPLAY OF DATA THROUGH MOBILE DEVICES WITH ANDROID TECHNOLOGY "</string>
+    <string name="escuela">"NAVAL SCHOOL OF SUBOFICIAL ARC BARRANQUILLA "</string>
+    <string name="tecnologiaelectronica">"ELECTRONIC TECHNOLOGY "</string>
+    <string name="ciudadfecha">"BARRANQUILLA, APRIL 2018 "</string>
+    <string name="contenido">Content</string>
+    <string name="guardar">Save</string>
+    <string name="variable3">Variable 3rd</string>
+    <string name="variable2">Variable 2nd</string>
+    <string name="variableuno">Variable 1st</string>
+    <string name="refrescar">Refresh</string>
+    <string name="titulovariables">REAL-TIME CONNECTION VIA WEB-XBEE</string>
+    <string name="justificacionfull">"It is intended to develop a data transfer system, which remotely transmits from the device, to an android platform mobile application, all the information collected, using an Xbee Pro 900Hp SB3 module, which takes advantage of the DigiMesh network protocol ®, which offers dense network operation and support for sleeper routers, which is also available in a patented point-to-multipoint configuration. It consists of a power of 250 mW, a band of 902 MHz to 928 MHz, so it can reach up to 14.4Km (with 2.1dB dipole antenna), channel mask selectable for software immunity and in addition to its industrial temperature rating ( -40ºC to 85ºC). It is intended to communicate through an arduino and a main receiver that will load the data collected in the cloud. At the same time, the phone containing the application will be able to access the registered data in real time, only with an internet connection, from any point of geographical location. All this for research, information and prevention of catastrophic events. "</string>
+    <string name="planteamientodelproblema">"Unlike the SCADAT data acquisition systems in which the user interacts with the information provided, an infocommunication system informs and communicates through any ICT technology, to know about environmental conditions, for example, what it supplies us with a system for measuring conditions related to the environment. The appropriate visualization of this information allows us, in a military environment, to know different parameters or conditions related to the military future; allowing decisions to be made not only according to the circumstances related to them; but those related to defense and security, allowing to perform tasks of monitoring, monitoring, monitoring and control, for preventive purposes or for investigative purposes. We find that there are not many remote means, easily acquired to obtain this data, because the technology of the current equipment is very expensive or not available to everyone. exampleigˈzampəl Definiciones de example sustantivo a thing characteristic of its kind or illustrating a general rule. it's a good example of how European action can produce results sinónimos: specimen, sample, exemplar, exemplification, instance, case, illustration, case in point a person or thing regarded in terms of their fitness to be imitated or the likelihood of their being imitated. it is vitally important that parents should set an example sinónimos: precedent, lead, model, pattern, exemplar, ideal, standard, template, paradigm, role model, object lesson verbo be illustrated or exemplified. the extent of Allied naval support is exampled by the navigational specialists provided Ver también for example, follow the example, set an example, as an example, set a good example, give an example, good example, a good example, example of, example sentence Traducciones de example sustantivo el ejemplo example, instance, illustration, lead, precedent el ejemplar copy, specimen, example, exemplar el escarmiento lesson, example, punishment la pauta pattern, guideline, guide, model, rule, example el problema problem, issue, trouble, hassle, worry la obra work, play, piece, oeuvre, handiwork, building site "</string>
+    <string name="variables">Variables</string>
+    <string name="justificacion">Justification</string>
+    <string name="planteamiento">Approach</string>
+    <string name="introduccion">"Introduction "</string>
+    <string name="agradecimientos">Thankss</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_inicio">Start</string>
+    <string name="title_activity_objetivos">Objectives</string>
+    <string name="title_activity_justificacion">Justification</string>
+    <string name="title_activity_planteamiento_problema">"Approach Problem "</string>
+    <string name="title_activity_introduccion">Introduction</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="title_activity_agradecimientos">Thanks</string>
+</resources>
