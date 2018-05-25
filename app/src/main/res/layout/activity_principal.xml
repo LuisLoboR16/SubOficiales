@@ -162,7 +162,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="110dp"
                     android:layout_marginRight="120dp"
-                    android:text="@string/inicio"
+                    android:text="@string/contenido"
                     android:textAlignment="center"
                     android:textSize="15sp" />
             </LinearLayout>

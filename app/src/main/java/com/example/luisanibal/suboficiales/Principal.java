@@ -17,7 +17,7 @@ public class Principal extends AppCompatActivity {
         siguiente.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent siguiente = new Intent(Principal.this, Sensor.class);
+                Intent siguiente = new Intent(Principal.this, Contenido.class);
                 startActivity(siguiente);
             }
         });
