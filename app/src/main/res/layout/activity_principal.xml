@@ -13,13 +13,24 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/fondo3"
+        android:background="@drawable/activo"
         android:orientation="vertical">
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
 
         <TextView
             android:id="@+id/textView2"
@@ -31,19 +42,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <TextView
-            android:id="@+id/txtTitulo"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/titulo"
-            android:textAlignment="center"
-            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-            android:textSize="18sp"
-            android:textStyle="bold|italic" />
-
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:orientation="vertical">
 
             <TextView
@@ -67,7 +68,8 @@
                 android:layout_height="wrap_content"
                 android:text="GTE ANGEL PÉREZ DANIEL FELIPE"
                 android:textAlignment="center"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                android:textColor="@android:color/background_light"
                 android:textSize="16sp"
                 android:textStyle="bold|italic" />
 
@@ -78,6 +80,7 @@
                 android:text="GTE BUITRAGO WHITE SEBASTIÁN"
                 android:textAlignment="center"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="@android:color/background_light"
                 android:textSize="16sp"
                 android:textStyle="bold|italic" />
 
@@ -88,6 +91,7 @@
                 android:text="GTE GORDILLO ESPINOZA IVÁN DARÍO"
                 android:textAlignment="center"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="@android:color/background_light"
                 android:textSize="16sp"
                 android:textStyle="bold|italic" />
 
@@ -128,6 +132,7 @@
                     android:text="@string/escuela"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                    android:textColor="@android:color/background_light"
                     android:textSize="16sp"
                     android:textStyle="bold|italic" />
 
@@ -138,6 +143,7 @@
                     android:text="@string/tecnologiaelectronica"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                    android:textColor="@android:color/background_light"
                     android:textSize="16sp"
                     android:textStyle="bold|italic" />
 
@@ -148,6 +154,7 @@
                     android:text="@string/ciudadfecha2"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                    android:textColor="@android:color/background_light"
                     android:textSize="16sp"
                     android:textStyle="bold|italic" />
 

@@ -14,8 +14,12 @@
 
         <ListView
             android:id="@+id/lvoOpciones"
+            style="@android:style/Widget.Holo.Light.ListView.DropDown"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:background="@drawable/fondo"
+            android:cacheColorHint="@color/colorAccent"
+            android:scrollbars="horizontal" />
 
     </LinearLayout>
 </android.widget.LinearLayout>

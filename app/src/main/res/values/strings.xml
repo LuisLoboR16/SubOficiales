@@ -4,7 +4,7 @@
     <string name="titulo">DESARROLLO DE UN SISTEMA BÁSICO DE INFOCOMUNICACION Y VISUALIZACIÓN DE DATOS A TRAVÉS DE DISPOSITIVOS MÓVILES CON TECNOLOGÍA ANDROID</string>
     <string name="escuela">ESCUELA NAVAL DE SUBOFICIALES ARC \"BARRANQUILLA\"</string>
     <string name="tecnologiaelectronica">TECNOLOGÍA EN ELECTRÓNICA</string>
-    <string name="ciudadfecha">BARRANQUILLA, ABRIL 2018</string>
+    <string name="ciudadfecha">BARRANQUILLA, MAYO 2018</string>
     <string name="contenido">Contenido</string>
     <string name="title_activity_agradecimientos">Agradecimientos</string>
     <string name="tab_text_1">Tab 1</string>
@@ -23,7 +23,7 @@
     <string name="introduccion">Introducción</string>
     <string name="planteamiento">Planteamiento</string>
     <string name="justificacion">Justificación</string>
-    <string name="variables">Variables</string>
+    <string name="datostiemporeal">Datos en tiempo real</string>
     <string name="planteamientodelproblema">A diferencia de los sistemas de adquisición de datos SCADAT en los cuales el usuario interactúa con la información suministrada, un sistema de  infocomunicación, nos informa y comunica por medio de cualquier tecnología TICs, conocer acerca de las condiciones medioambientales por ejemplo, lo que nos suministra un sistema de medición de condiciones relacionadas con el medio ambiente. La apropiada visualización de esta información, nos permite en un entorno militar,  conocer de diferentes parámetros o condiciones relacionadas con el devenir militar; permitiendo que se tomen decisiones no solo acordes con las circunstancias relacionadas con ellas; sino aquellas relacionadas con la defensa y seguridad, permitiendo poder hacer labores de monitoreo, seguimiento, vigilancia y control, con fines preventivos o para fines investigativos. Encontramos que no existen muchos medios remotos, de fácil adquisición para obtener estos datos, pues la tecnología de los equipos actuales, es muy costosa o no está al alcance de todo el mundo</string>
     <string name="justificacionfull">Se pretende desarrollar un sistema de transferencia de datos, que de manera remota nos transmita desde el dispositivo, a una aplicación móvil de plataforma android, toda la información recopilada, empleando un módulo Xbee Pro 900Hp SB3, El cual se aprovecha del protocolo de red DigiMesh®, que ofrece un funcionamiento denso de red y soporte para enrutadores durmientes, que también está disponible en una configuración de punto a multipunto patentada. Consta de una potencia de 250 mW, una banda de 902 MHz a 928 MHz, por lo cual puede alcanzar hasta 14.4Km (con antena dipolo 2.1dB), máscara de canal seleccionable para inmunidad de software y además de su calificación industrial de temperatura (-40ºC a 85ºC).   Se pretende comunicar por medio de un arduino y un receptor principal que cargará los datos recopilados en la nube. Al mismo tiempo, el teléfono que contenga la aplicación será capaz de acceder a los datos registrados en tiempo real, únicamente contando con una conexión a internet, desde cualquier punto de ubicación geográfico. Todo esto con fines de investigación, información  y prevención de eventos catastróficos.</string>
     <string name="titulovariables">CONEXIÓN EN TIEMPO REAL VÍA WEB-XBEE</string>
@@ -48,6 +48,6 @@
         <item>@string/introduccion</item>
         <item>@string/planteamiento</item>
         <item>@string/justificacion</item>
-        <item>@string/variables</item>
+        <item>@string/datostiemporeal</item>
     </string-array>
 </resources>

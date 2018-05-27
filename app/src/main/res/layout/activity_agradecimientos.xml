@@ -14,10 +14,12 @@
         <TextView
             android:id="@+id/txtAgradcimientos"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#D4A77D "
             android:text="@string/agradecimientosfull"
             android:textAlignment="viewStart"
-            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
             android:textStyle="bold|italic" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
